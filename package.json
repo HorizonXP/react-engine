@@ -17,7 +17,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "peerDependencies": {
-    "react": "^0.14.0-beta3",
+    "react": "0.14.0-beta3",
     "react-router": "^1.0.0-beta3",
     "express": "^4.12"
   },
@@ -37,7 +37,7 @@
     "rewire": "^2.3.1",
     "sinon": "^1.14.1",
     "tape": "^3.5.0",
-    "react": "^0.14.0-beta3",
+    "react": "0.14.0-beta3",
     "react-router": "^1.0.0-beta3",
     "express": "^4.12"
   },
